@@ -7,6 +7,7 @@ export default function Scene() {
     return (
         <Canvas>
             <Model />
+            <OrbitControls />
         </Canvas>
     )
 }
